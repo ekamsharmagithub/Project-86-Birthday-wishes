@@ -1,0 +1,12 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+
+h1{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
